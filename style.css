@@ -1,0 +1,39 @@
+.carousel-item{
+    position: relative;
+    left: 250px;
+    margin-top: 10px;
+}
+.container-fluid1{
+    position: relative;
+    left: 150px;
+    width: 600px;
+    margin-top: 10px;
+    border-style: double;
+}
+button {
+    margin-right: 10px;
+}
+body{
+   background-color:     lightcyan;
+}
+marquee{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: large;
+  
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.type1{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+}
+.type2{
+    width: 30%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50% );
+}
